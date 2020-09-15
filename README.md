@@ -1,4 +1,4 @@
-# prueba_de_diseno
+# prueba_de_diseño
 
 Diseño de pantallas y transiciones de pantallas.
 
